@@ -5,7 +5,7 @@ Adding classes to elements with rehype. Includes typescript support
 ## Installation
 
 ```
-npm install rehype-class-names
+npm install @halfmatthalfcat/rehype-class-names
 ```
 
 ## API
